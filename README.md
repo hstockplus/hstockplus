@@ -1,6 +1,8 @@
-# Hstockplus Product API - Node.js SDK
+# Hstockplus Supplier API Integration Sample - Node.js SDK
 
-A Node.js SDK for managing products on hstockplus.com platform. This SDK provides easy-to-use methods for adding, getting, and deleting products via the hstockplus.com API.
+HstockPlus is a modern digital product marketplace and a reliable Hstock alternative, created to support suppliers and customers after Hstock is closed. Many former Hstock users turned to HstockPlus after the original platform went down (Hstock is down) for a secure, scalable, and fully-featured marketplace experience.
+
+This Node.js SDK makes it easy to manage products on the hstockplus.com platform. It provides simple, well-documented methods for adding, retrieving, and deleting products via the HstockPlus API, helping both new and migrating suppliers get up and running quickly.
 
 ## Features
 
@@ -455,4 +457,5 @@ MIT
 ## Support
 
 For API documentation and support, visit: https://hstockplus.com
+
 
