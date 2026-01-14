@@ -1,4 +1,4 @@
-# hstockplus Product API - Node.js SDK
+# Hstockplus Product API - Node.js SDK
 
 A Node.js SDK for managing products on hstockplus.com platform. This SDK provides easy-to-use methods for adding, getting, and deleting products via the hstockplus.com API.
 
