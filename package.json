@@ -1,0 +1,21 @@
+{
+  "name": "hstockplus-product-api",
+  "version": "1.0.0",
+  "description": "Node.js SDK for hstockplus.com Product API - Add, Get, and Delete products",
+  "main": "product_api.js",
+  "scripts": {
+    "test": "node example.js"
+  },
+  "keywords": [
+    "hstockplus",
+    "product",
+    "api",
+    "sdk"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.0"
+  }
+}
+
